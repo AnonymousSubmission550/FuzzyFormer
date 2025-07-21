@@ -1,5 +1,3 @@
-# FuzzyFormer: A Fuzzy Attention-Enhanced Transformer for Long-Term Time Series Forecasting
-
 1\. Environment Setup
 ---------------------
 
