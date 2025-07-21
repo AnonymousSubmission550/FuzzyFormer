@@ -1,0 +1,1 @@
+Total Trainable Parameters: 62652

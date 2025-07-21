@@ -1,0 +1,10 @@
+result/
+.idea/
+.vscode/
+.git
+*.DS_Store
+*.npz
+*.gz
+__pycache__/
+venv/
+*.sh text eol=lf
